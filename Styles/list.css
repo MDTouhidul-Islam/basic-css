@@ -1,0 +1,7 @@
+li{
+    color: burlywood;
+}
+ul li {
+    color:purple ;
+    display: inline;
+}

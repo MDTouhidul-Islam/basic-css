@@ -1,0 +1,41 @@
+.header{
+    height: 200px;
+    /* background-image: url('flower.jpeg'); */
+    /* background-image: url('../mac.jpg'); */
+    /* background-image: url('../Images/home.png'); */
+    background-image: url('../software-dev.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: grey;
+    background-blend-mode:multiply;
+    color: yellowgreen;
+    /* background-position: top right; */
+}
+.blog{
+    background-color: peru;
+    box-shadow: 10px 10px 10px grey;
+    margin-bottom: 100px;
+}
+h3{
+    color: magenta;
+    text-decoration: underline magenta;
+}
+p{
+    color: blueviolet;
+}
+.page title{
+    font-weight: 900px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a{
+    text-decoration: none;
+}
+
+span{
+    border: 1px solid purple;
+    height: 200px;
+    width: 100px;
+    margin: 50px;
+    /* display:  inline-block; */
+    display: none;
+}
